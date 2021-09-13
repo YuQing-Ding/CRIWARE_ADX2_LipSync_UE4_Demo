@@ -44,7 +44,7 @@
 * Character Creator v3.4
 
 ## 还有问题？
-可以添加CRIWARE China官方QQ群：494015882或写Issues给我。
+关于CRIWARE SDK使用上的问题可以添加CRIWARE China官方QQ群：494015882。但如果是本Demo在使用上出现问题请写Issues给我。
 
 ## 有什么好点子 Or Bug反馈？
 写Issues给我。
