@@ -14,7 +14,7 @@
 
 
 
-## 制作方法:
+## 模型的制作方法:
 [请点击这里](https://www.bilibili.com/video/BV1o34y1D7yM)
 
 ## ⚠关于音乐版权的警告
