@@ -3,6 +3,10 @@
 
 这是CRI ADX LipSync UE4版本的Demo，使用了基于虚幻4 Digital Human 着色器的人物角色。
 
+## 项目截图
+
+![](https://raw.githubusercontent.com/YuQing-Ding/CRIWARE_ADX2_LipSync_UE4_Demo/main/CRI_ADX_LipSync_DH_Demo%202021-09-13%2002-09-05-184.jpg)
+
 
 ## 工程文件版本
 本Demo的工程文件使用的是Unreal Engine 4.26.2开发的，CRIWARE SDK For UE4版本为1.30.00.01。
