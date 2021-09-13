@@ -19,7 +19,7 @@
 ## 文件架构：
 * Executable_Demo文件夹存放的是编译好可以直接运行的Demo。（只能进行交流学习之用，原因请见“⚠关于音乐的版权警告”）
 * Model文件夹存放的是本Demo用的模型文件。（包含有AIUEO变形器版以及无AIUEO变形器版）
-* CRIWARE_ADX_LipSync_UE4_Demo_Project_Files存放的是本Demo的虚幻4工程文件，你可以进行修改和二次分发。（但CRIWARE SDK等专有软件在分发时请注意分发规则，如果不确定请联系这些专有软件的开发商）
+* CRIWARE_ADX_LipSync_UE4_Demo_Project_Files（本压缩包已用密码加密）存放的是本Demo的虚幻4工程文件，你可以进行修改和二次分发。（但CRIWARE SDK等专有软件在分发时请注意分发规则，如果不确定请联系这些专有软件的开发商）
 
 ## 功能：
 * 在自由摄像机视角按下“E”可以放大（在其他固定摄像机时，此功能无效）
