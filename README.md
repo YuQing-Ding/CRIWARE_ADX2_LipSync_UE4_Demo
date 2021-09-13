@@ -5,7 +5,7 @@
 
 ## 项目截图
 
-![](https://raw.githubusercontent.com/YuQing-Ding/CRIWARE_ADX2_LipSync_UE4_Demo/main/CRI_ADX_LipSync_DH_Demo%202021-09-13%2002-09-05-184.jpg)
+![](https://raw.githubusercontent.com/YuQing-Ding/CRIWARE_ADX2_LipSync_UE4_Demo/main/CRI_ADX_LipSync_DH_Demo%202021-09-13%2002-09-05-184.jpg?token=AQSMSOXZNNHDOD7ESNQT3XDBJAL7M)
 
 
 ## 工程文件版本
