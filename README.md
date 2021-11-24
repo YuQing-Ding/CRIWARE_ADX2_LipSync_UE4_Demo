@@ -25,7 +25,7 @@ The music in this demo has not been copyrighted commercially by the correspondin
 * The "Model" folder contains the model files for this demo. (Includes both AIUEO [morph targets](https://en.wikipedia.org/wiki/Morph_target_animation) and non-AIUEO morph targets versions)
 * The "CRIWARE_ADX_LipSync_UE4_Demo_Project_Files" contains the Unreal Engine 4 project files for this demo, which you can modify and distribute twice.
 
-<span style="color: red">WARNING!!!</span>.: (This zip is encrypted with a high strength password for security reasons as it contains the "CRIWARE SDK For Unreal Engine 4" middleware, the next version will exclude the CRIWARE SDK For Unreal Engine 4. If you do not have the corresponding version of CRIWARE SDK For Unreal Engine 4, you will not be able to open and develop this project with UE4)
+⚠️WARNING!!!⚠️: (This zip is encrypted with a high strength password for security reasons as it contains the "CRIWARE SDK For Unreal Engine 4" middleware, the next version will exclude the CRIWARE SDK For Unreal Engine 4. If you do not have the corresponding version of CRIWARE SDK For Unreal Engine 4, you will not be able to open and develop this project with UE4)
 
 
 ## Functions：
